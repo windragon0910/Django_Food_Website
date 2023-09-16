@@ -1,4 +1,4 @@
-# Hot-Food
+# Food_Websits_For_Hot
 > Food Delivery Website built with Django and Bootstrap
 # Demo:
 ## Homepage
@@ -8,7 +8,7 @@
 ## Installation:
 **1.Clone the Repo**
 ```sh
-git clone https://github.com/shyam999/Hot-Food.git
+git clone https://github.com/windragon0910/Django_Food_Website.git
 ```
 **2.Setup pipenv & Install Requirements**
 ```sh
